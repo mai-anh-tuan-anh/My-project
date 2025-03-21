@@ -1,0 +1,10 @@
+from treelib import Node, Tree
+tree = Tree()
+tree.create_node("A", "A")
+tree.create_node("B", "B", parent="A")
+tree.create_node("C", "C", parent="A")
+tree.create_node("D", "D", parent="B")
+tree.create_node("E", "E", parent="B")
+tree.create_node("F", "F", parent="C")
+tree.create_node("G", "G", parent="C")
+tree.show()

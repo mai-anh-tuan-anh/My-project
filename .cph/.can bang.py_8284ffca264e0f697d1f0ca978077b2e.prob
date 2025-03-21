@@ -1,0 +1,1 @@
+{"name":"Local: can bang","url":"d:\\Visual Studio Code\\Python\\can bang.py","tests":[{"id":1741251868124,"input":"2 3 4\n5 6 7 8 9 10\n11 12 13","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual Studio Code\\Python\\can bang.py","group":"local","local":true}

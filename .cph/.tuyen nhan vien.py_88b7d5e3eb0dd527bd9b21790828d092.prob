@@ -1,0 +1,1 @@
+{"name":"Local: tuyen nhan vien","url":"d:\\Visual Studio Code\\Python\\tuyen nhan vien.py","tests":[{"id":1739683955560,"input":"3\nNguyen Thai Binh\n45\n75\nLe Cong Hoa\n4\n4.5\nPhan Van Duc\n56\n56","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual Studio Code\\Python\\tuyen nhan vien.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: ky tu giong nhau","url":"d:\\Visual Studio Code\\Python\\ky tu giong nhau.py","tests":[{"id":1740218712644,"input":"2\n9\n1 2 1\n10\n2 5 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual Studio Code\\Python\\ky tu giong nhau.py","group":"local","local":true}

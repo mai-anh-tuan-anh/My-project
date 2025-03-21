@@ -1,0 +1,1 @@
+{"name":"Local: sap xep chan le","url":"d:\\Visual Studio Code\\Python\\sap xep chan le.py","tests":[{"id":1739956541562,"input":"10\n1 2 3 4 5 6 7 7 9 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual Studio Code\\Python\\sap xep chan le.py","group":"local","local":true}

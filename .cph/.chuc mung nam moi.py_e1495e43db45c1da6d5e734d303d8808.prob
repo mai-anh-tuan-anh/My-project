@@ -1,0 +1,1 @@
+{"name":"Local: chuc mung nam moi","url":"d:\\Visual Studio Code\\Python\\chuc mung nam moi.py","tests":[{"id":1739351496325,"input":"4\nCHUC MUNG NAM MOI\nHAPPY NEW YEAR\nCHUC MUNG TUOI MOI\nCHUC MUNG NAM MOI","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual Studio Code\\Python\\chuc mung nam moi.py","group":"local","local":true}

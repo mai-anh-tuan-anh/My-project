@@ -1,0 +1,6 @@
+name=input()
+born=input()
+diem1=float(input())
+diem2=float(input())
+diem3=float(input())
+print("{} {} {:.1f}".format(name,born,diem1+diem2+diem3))

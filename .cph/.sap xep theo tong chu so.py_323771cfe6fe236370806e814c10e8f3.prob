@@ -1,0 +1,1 @@
+{"name":"Local: sap xep theo tong chu so","url":"d:\\Visual Studio Code\\Python\\sap xep theo tong chu so.py","tests":[{"id":1739166268359,"input":"1\n8\n143 43 22 99 7 9 1111 10000000","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual Studio Code\\Python\\sap xep theo tong chu so.py","group":"local","local":true}

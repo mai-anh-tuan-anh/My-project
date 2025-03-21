@@ -1,0 +1,1 @@
+{"name":"Local: bieu thuc","url":"d:\\Visual Studio Code\\Python\\bieu thuc.py","tests":[{"id":1740295635392,"input":"2\n(a + (b *c) ) + (d/e)\n( ( () ) ( () ) )","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual Studio Code\\Python\\bieu thuc.py","group":"local","local":true}

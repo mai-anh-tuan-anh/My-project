@@ -1,0 +1,1 @@
+{"name":"Local: python file","url":"d:\\Visual Studio Code\\Python\\python file.py","tests":[{"id":1738982360635,"input":"abc.bin","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual Studio Code\\Python\\python file.py","group":"local","local":true}

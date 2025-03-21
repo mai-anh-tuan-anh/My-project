@@ -1,0 +1,1 @@
+{"name":"Local: phep cong","url":"d:\\Visual Studio Code\\Python\\phep cong.py","tests":[{"id":1738572381621,"input":"1 + 2 = 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual Studio Code\\Python\\phep cong.py","group":"local","local":true}

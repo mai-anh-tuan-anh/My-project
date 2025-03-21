@@ -1,1 +1,2 @@
-a=int(input())
+res=['+']
+print(*res)

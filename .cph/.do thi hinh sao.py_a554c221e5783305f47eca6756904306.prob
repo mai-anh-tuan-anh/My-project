@@ -1,0 +1,1 @@
+{"name":"Local: do thi hinh sao","url":"d:\\Visual Studio Code\\Python\\do thi hinh sao.py","tests":[{"id":1740286328597,"input":"5\n1 2\n1 3\n3 4\n4 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visual Studio Code\\Python\\do thi hinh sao.py","group":"local","local":true}
